@@ -1,0 +1,32 @@
+{
+  "name": "mongo-crud",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RK-developer/node-mongo-crud.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Karthik R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RK-developer/node-mongo-crud/issues"
+  },
+  "homepage": "https://github.com/RK-developer/node-mongo-crud#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "mongoose": "^6.4.3"
+  }
+}
